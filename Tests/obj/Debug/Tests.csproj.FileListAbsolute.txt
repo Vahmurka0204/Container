@@ -1,0 +1,54 @@
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Tests.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Tests.pdb
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.exe
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Library.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.pdb
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.exe.config
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Library.pdb
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\obj\Debug\Tests.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Tests\obj\Debug\Tests.pdb
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Tests.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Tests.pdb
+C:\git\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.exe
+C:\git\Intellectual Games Community\Tests\bin\Debug\Library.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.pdb
+C:\git\Intellectual Games Community\Tests\bin\Debug\Intellectual Games Community.exe.config
+C:\git\Intellectual Games Community\Tests\bin\Debug\Library.pdb
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\Intellectual Games Community\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\Intellectual Games Community\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\git\Intellectual Games Community\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\git\Intellectual Games Community\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\git\Intellectual Games Community\Tests\obj\Debug\Tests.dll
+C:\git\Intellectual Games Community\Tests\obj\Debug\Tests.pdb
+C:\git\Container\Tests\bin\Debug\Tests.dll
+C:\git\Container\Tests\bin\Debug\Tests.pdb
+C:\git\Container\Tests\bin\Debug\Library.dll
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\Container\Tests\bin\Debug\Library.pdb
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\Container\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\git\Container\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\git\Container\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\git\Container\Tests\obj\Debug\Tests.dll
+C:\git\Container\Tests\obj\Debug\Tests.pdb
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\Container\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

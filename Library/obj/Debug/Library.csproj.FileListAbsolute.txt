@@ -1,0 +1,18 @@
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\bin\Debug\Library.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\bin\Debug\Library.pdb
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\obj\Debug\Library.dll
+C:\Users\Александра\source\repos\Intellectual Games Community\Library\obj\Debug\Library.pdb
+C:\git\Intellectual Games Community\Library\bin\Debug\Library.dll
+C:\git\Intellectual Games Community\Library\bin\Debug\Library.pdb
+C:\git\Intellectual Games Community\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\git\Intellectual Games Community\Library\obj\Debug\Library.dll
+C:\git\Intellectual Games Community\Library\obj\Debug\Library.pdb
+C:\git\Intellectual Games Community\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\git\Container\Library\bin\Debug\Library.dll
+C:\git\Container\Library\bin\Debug\Library.pdb
+C:\git\Container\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\git\Container\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\git\Container\Library\obj\Debug\Library.dll
+C:\git\Container\Library\obj\Debug\Library.pdb
